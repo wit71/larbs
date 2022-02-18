@@ -29,3 +29,4 @@ G,https://github.com/wit71/dwmblocks,serves as the modular status bar.
 G,https://git.suckless.org/dmenu.git,runs commands and provides a UI for selection.
 ,rxvt-unicode,terminal emulator
 G,https://github.com/wit71/dwm,is the window manager.
+A,ani-cli,anime in the command line
