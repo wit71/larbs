@@ -25,7 +25,7 @@ A,sc-im,is an Excel-like terminal spreadsheet manager.
 ,zathura-pdf-mupdf,allows mupdf pdf compatibility in zathura.
 ,xorg-xbacklight,enables changing screen brightness levels.
 ,htop,a nice interface for running processes
-G,https://github.com/wit71/dwmblocks,serves as the modular status bar.
+G,https://github.com/wit71/slstatus,serves as the status bar.
 G,https://git.suckless.org/dmenu,runs commands and provides a UI for selection.
 ,rxvt-unicode,terminal emulator
 G,https://github.com/wit71/dwm,is the window manager.
