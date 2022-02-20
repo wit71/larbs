@@ -7,14 +7,14 @@
 ,picom,is for transparency and removing screen-tearing.
 ,dosfstools,allows your computer to access dos-like filesystems.
 ,exfat-utils,allows management of FAT drives.
-,feh,sets the wallpaper.
+,feh,sets the wallpaper and is an image viewer.
 ,ffmpeg,can record and splice video and audio on the command line.
-,vim,vim
+,vim,is vim
 ,mpv,is the patrician's choice video player.
 ,man-db,lets you read man pages of programs.
 A,brave-bin,"is an elegant browser with built-in adblocking, tor and other features."
 ,alsa-utils,sound command line interface
-,pulseaudio,compatibility with PulseAudio programs.
+,pulseaudio,gives compatibility with PulseAudio programs.
 ,pavucontrol,is an audio controller.
 A,sc-im,is an Excel-like terminal spreadsheet manager.
 ,unrar,extracts rar's.
@@ -23,10 +23,10 @@ A,sc-im,is an Excel-like terminal spreadsheet manager.
 ,yt-dlp,can download any YouTube video (or playlist or channel) when given the link.
 ,zathura,is a pdf viewer with vim-like bindings.
 ,zathura-pdf-mupdf,allows mupdf pdf compatibility in zathura.
-,xorg-xbacklight,enables changing screen brightness levels.
-,htop,a nice interface for running processes
+,acpilight,enables changing screen brightness levels.
+,htop,provides a nice interface for running processes
 G,https://github.com/wit71/slstatus,serves as the status bar.
 G,https://git.suckless.org/dmenu,runs commands and provides a UI for selection.
-,rxvt-unicode,terminal emulator
+,rxvt-unicode,is the terminal emulator
 G,https://github.com/wit71/dwm,is the window manager.
 A,ani-cli,anime in the command line
