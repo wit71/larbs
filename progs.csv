@@ -13,8 +13,8 @@
 ,mpv,is the patrician's choice video player.
 ,man-db,lets you read man pages of programs.
 A,brave-bin,"is an elegant browser with built-in adblocking, tor and other features."
-,alsa-utils,sound command line interface
-,pulseaudio,gives compatibility with PulseAudio programs.
+,pipewire,lightweight alternative to pulse.
+,pipewire-pulse,gives compatibility with PulseAudio programs.
 ,pavucontrol,is an audio controller.
 A,sc-im,is an Excel-like terminal spreadsheet manager.
 ,unrar,extracts rar's.
