@@ -29,4 +29,4 @@ G,https://github.com/wit71/slstatus,serves as the status bar.
 G,https://git.suckless.org/dmenu,runs commands and provides a UI for selection.
 ,rxvt-unicode,is the terminal emulator
 G,https://github.com/wit71/dwm,is the window manager.
-A,ani-cli,anime in the command line
+A,ani-cli-git,anime in the command line
