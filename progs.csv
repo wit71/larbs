@@ -33,3 +33,4 @@ G,https://github.com/wit71/dwm,is the window manager.
 A,ani-cli-git,anime in the command line
 ,qbittorrent,Is an open source torrent client.
 ,mlocate,finds files
+,dunst,serves as the notification server
